@@ -1,0 +1,15 @@
+:root{
+    --text-color-one: #7E479B;
+    --text-color-two: #ffffff;
+    --text-color-three: #333333;
+
+    --background-color-one: #ffffff;
+    --background-color-two: #BFABD0;
+    --background-color-three: #9C83BE;
+
+    --background-color-hover: #9370DB;
+
+    --border-color-one: #ADA3BE;
+    --border-color-two: #9C83BE;
+    --border-color-three: #ff0000;
+}
