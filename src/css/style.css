@@ -1,0 +1,47 @@
+:root{
+    --text-color-one: #7E479B;
+    --text-color-two: #ffffff;
+    --text-color-three: #333333;
+
+    --background-color-one: #ffffff;
+    --background-color-two: #BFABD0;
+    --background-color-three: #9C83BE;
+
+    --background-color-hover: #9370DB;
+
+    --border-color-one: #ADA3BE;
+    --border-color-two: #9C83BE;
+    --border-color-three: #ff0000;
+}
+
+body {
+    background-image: radial-gradient(circle, var(--background-color-one), var(--background-color-three));
+    margin-top: -30px;
+}
+
+header img {
+    width: 80%;
+    max-width: 400px;
+}
+
+main {
+    max-width: 600px;
+    width: 92.5%;
+    margin-bottom: 50px;
+    margin-top: -60px;
+}
+
+p {
+    color: var(--text-color-one);
+    font-weight: bold;
+    margin: 30px 0;
+}
+
+form {
+    max-width: 370px;
+}
+
+.cardMEU {
+    width: 100px;
+    object-fit: contain;
+}
